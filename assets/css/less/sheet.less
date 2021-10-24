@@ -42,7 +42,8 @@
                 span:nth-child(2) {
                     display: block;
                     font-family: 'Nothing You Could Do', cursive;
-                    font-size: 1.2rem;
+                    font-size: 1.1rem;
+                    text-transform: uppercase;
                 }
             }
         }
@@ -59,7 +60,8 @@
             }
             p {
                 font-family: 'Nothing You Could Do', cursive;
-                font-size: 1.3rem;
+                font-size: 1.15rem;
+                text-transform: uppercase;
             }
         }
     }
@@ -67,18 +69,67 @@
     .sheet__attributes {
         text-align: center;
         border-bottom: 2px solid rgba(0, 0, 0, 0.16);
-        padding: 1rem 0 0 0;
+        padding: 1rem 0 1rem 0;
         
         h4 {
             font-family: 'Special Elite', cursive;
             font-weight: 700;
             text-transform: uppercase;
         }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        
+            li {
+                font-family: 'Nothing You Could Do', cursive;
+                font-size: 1rem;
+                text-transform: uppercase;
+                padding: 0.5rem 0 0 0;
+                border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+
+                span:nth-child(1) {
+                    display: block;
+                    font-family: 'Special Elite', cursive;
+                    font-weight: 700;
+                    font-size: 0.9rem;
+                    text-align: left;
+                }
+            }
+        }
     }
 
     .sheet__background {
         border-bottom: 2px solid rgba(0, 0, 0, 0.16);
         padding: 1rem 0 0 0;
+
+        h4 {
+            font-family: 'Special Elite', cursive;
+            font-weight: 700;
+            text-transform: uppercase;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+
+            li {
+                display: flex;
+                flex-flow: row nowrap;
+                justify-content: space-between;
+
+                font-family: 'Nothing You Could Do', cursive;
+                font-size: 1.1rem;
+                text-transform: uppercase;
+                padding: 0.5rem 0 0 0;
+                border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+                
+
+                span:nth-child(2) {
+                    font-family: 'Special Elite', cursive;
+                }
+            }
+        }
     }
 }
 
