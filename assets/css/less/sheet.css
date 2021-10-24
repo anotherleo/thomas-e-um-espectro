@@ -1,0 +1,70 @@
+.page__sheet .sheet--name {
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  padding: 0 0 1rem 0;
+}
+.page__sheet .sheet--name h1 {
+  font-family: 'Special Elite', cursive;
+  font-weight: 700;
+}
+.page__sheet .sheet--name h2 {
+  font-family: 'Nothing You Could Do', cursive;
+  font-size: 1.4em;
+}
+.page__sheet .sheet--portrait img {
+  border-radius: 20px;
+}
+.page__sheet .sheet__patterns .sheet--archetype {
+  list-style-type: none;
+  text-align: center;
+  padding: 0 0.5rem 0 0;
+  border-bottom: 2px solid rgba(0, 0, 0, 0.16);
+}
+.page__sheet .sheet__patterns .sheet--archetype li {
+  margin: 0.5rem 0 1rem 0;
+}
+.page__sheet .sheet__patterns .sheet--archetype li span:nth-child(1) {
+  display: block;
+  font-family: 'Special Elite', cursive;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.page__sheet .sheet__patterns .sheet--archetype li span:nth-child(2) {
+  display: block;
+  font-family: 'Nothing You Could Do', cursive;
+  font-size: 1.2rem;
+}
+.page__sheet .sheet__patterns .sheet--chronicles,
+.page__sheet .sheet__patterns .sheet--purpose {
+  text-align: center;
+  border-bottom: 2px solid rgba(0, 0, 0, 0.16);
+}
+.page__sheet .sheet__patterns .sheet--chronicles h4,
+.page__sheet .sheet__patterns .sheet--purpose h4 {
+  font-family: 'Special Elite', cursive;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.page__sheet .sheet__patterns .sheet--chronicles p,
+.page__sheet .sheet__patterns .sheet--purpose p {
+  font-family: 'Nothing You Could Do', cursive;
+  font-size: 1.3rem;
+}
+.page__sheet .sheet__attributes {
+  text-align: center;
+  border-bottom: 2px solid rgba(0, 0, 0, 0.16);
+  padding: 1rem 0 0 0;
+}
+.page__sheet .sheet__attributes h4 {
+  font-family: 'Special Elite', cursive;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.page__sheet .sheet__background {
+  border-bottom: 2px solid rgba(0, 0, 0, 0.16);
+  padding: 1rem 0 0 0;
+}
+#attributesChart {
+  text-transform: uppercase;
+}

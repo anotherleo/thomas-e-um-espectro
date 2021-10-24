@@ -18,7 +18,7 @@ let attributesChart = new Chart(
                 label: 'Pontos de Atributos',
                 backgroundColor: 'rgba(255, 99, 132,.5)',
                 borderColor: 'rgb(255, 99, 132)',
-                data: [3, 3, 3, 2, 4, 3, 2, 4, 5],
+                data: [3, 3, 3, 2, 3, 3, 2, 4, 5],
             }]
         },
         options: {
