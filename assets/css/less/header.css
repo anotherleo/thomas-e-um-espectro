@@ -9,7 +9,7 @@
   font-family: 'Special Elite', cursive;
   font-size: 1.2rem;
 }
-.page__header::after {
+.page__header h2::after {
   content: "";
   display: block;
   width: 75px;
