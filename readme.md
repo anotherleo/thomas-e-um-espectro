@@ -14,4 +14,4 @@ Projeto pessoal e divertido se baseando em dinâmicas de RPG para montar uma "fi
 _Roadmap em desenvolvimento._  
 
 ### Changelog
-[Ver changelog](github.io/anotherleo/thomas-e-um-espectro/changelog.md).
+[Ver changelog](changelog.md).
