@@ -12,6 +12,7 @@ _24/12/2021_
 * Adicionado a page index para /sheets, mas ainda sem conteúdo.
 * Adicionado a page index para /blog, mas ainda sem conteúdo.
 * Adicionado a page index para /system, mas ainda sem conteúdo.
+* Homepage atualizada.
 
 ### v.0
 * Index de fichas, criação básica de assets.
