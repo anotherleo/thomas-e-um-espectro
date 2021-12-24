@@ -5,7 +5,7 @@
 ![total lines of code](https://img.shields.io/tokei/lines/github/anotherleo/thomas-e-um-espectro) 
 ![commit/year](https://img.shields.io/github/commit-activity/y/anotherleo/thomas-e-um-espectro) 
 ![last commit](https://img.shields.io/github/last-commit/anotherleo/thomas-e-um-espectro)
-
+![last commit](https://img.shields.io/badge/language-%F0%9F%87%A7%F0%9F%87%B7-lightgrey)
 ## Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20" style="display: inline-block" /> **HTML**,  
 
