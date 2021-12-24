@@ -7,11 +7,13 @@
 ![last commit](https://img.shields.io/github/last-commit/anotherleo/thomas-e-um-espectro)
 
 ## Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25" height="25" style="display: inline-block" /> **HTML**,  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20" style="display: inline-block" /> **HTML**,  
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25" height="25" style="display: inline-block" /> **CSS**: Less, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="20" height="18" style="display: inline-block" /> Bootstrap 5.  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20" style="display: inline-block" /> **CSS**: 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" width="18" height="18" style="display: inline-block" /> Less, 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="18" height="18" style="display: inline-block" /> Bootstrap 5.  
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" height="25" style="display: inline-block" /> **JavaScript**: Chart.js.  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" style="display: inline-block" /> **JavaScript**: Chart.js.  
 
 ## Conteúdos
 _Roadmap em desenvolvimento._  
