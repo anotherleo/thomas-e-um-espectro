@@ -11,7 +11,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20" style="display: inline-block" /> **CSS**: 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" width="18" height="18" style="display: inline-block" /> Less, 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="18" height="18" style="display: inline-block" /> Bootstrap 5.  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="18" height="16" style="display: inline-block" /> Bootstrap 5.  
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" style="display: inline-block" /> **JavaScript**: Chart.js.  
 
