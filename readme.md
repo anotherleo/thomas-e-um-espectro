@@ -8,7 +8,7 @@ Projeto pessoal e divertido se baseando em dinâmicas de RPG para montar uma "fi
 
 ## Tecnologias
 **CSS**: Less, Bootstrap 5.
-**JavaScript**: jQuery, Chart.js.
+**JavaScript**: Chart.js.
 
 ## Conteúdos
 _Roadmap em desenvolvimento._  
