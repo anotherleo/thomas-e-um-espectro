@@ -20,4 +20,4 @@
 _Roadmap em desenvolvimento._  
 
 ### Changelog
-[Ver changelog](changelog.md).
+🕒 [Ver changelog](changelog.md).
