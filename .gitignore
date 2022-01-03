@@ -1,5 +1,6 @@
-### Less, vscode extension ###
-assets/css/less/*.css
-
-### VSCode ###
+### IDE ###
 .vscode
+.idea
+
+### Linux ###
+.directory
